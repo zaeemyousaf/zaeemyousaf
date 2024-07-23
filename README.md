@@ -1,4 +1,4 @@
-![MasterHead]([https://or.lums.edu.pk/sites/default/files/styles/default_image_news/public/2022-06/LUMS%20Genreic%2001_1_1.jpg])
+![MasterHead]([https://assets.isu.pub/document-structure/230716044831-a3e47cd62b18d3461f992665655bd565/v1/04501c93a21c721f92ff6340f55f4220.jpeg])
 <h1 align="center">Hi 👋, I'm Zaeem Yousaf</h1>
 <img align="right" alt="Coding" width="32%" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 <!-- 
